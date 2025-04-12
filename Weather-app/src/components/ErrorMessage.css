@@ -1,0 +1,20 @@
+.error-message {
+    display: flex;
+    align-items: center;
+    background-color: #fee2e2;
+    border: 1px solid #fecaca;
+    border-radius: 8px;
+    padding: 12px 16px;
+    margin-bottom: 20px;
+    color: #b91c1c;
+  }
+  
+  .error-message svg {
+    flex-shrink: 0;
+    margin-right: 12px;
+  }
+  
+  .error-message p {
+    margin: 0;
+  }
+  
